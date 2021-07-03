@@ -1312,3 +1312,14 @@ nav[role="navigation"] {
     }
 
 }
+
+/*===== Testing Name disappear =====*/
+
+.site-title {
+    transition: background 0.4s ease-in-out;
+    background: #010101;
+  }
+  .is-hidden {
+    opacity: 0;
+    transition: transform 0.4s, opacity 0.2s;
+  }
