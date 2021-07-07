@@ -1323,3 +1323,7 @@ nav[role="navigation"] {
     opacity: 0;
     transition: transform 0.4s, opacity 0.2s;
   }
+/*===== Testing # =====*/
+  .highlight {
+      color: #2B7A78;
+  }
