@@ -1275,41 +1275,7 @@ nav[role="navigation"] {
     }
     /*===== Paginations =====*/
 
-    /*===== Blog =====*/
-    .blog_item h1 {
-        width: 75%;
-        font-size: 3.2rem;
-    }
-    .blog_item{
-        padding: 200px;
-    }
-    .blog_item h5 {
-        font-size: 1rem;
-    }
-    /*===== Main Styles =====*/
-    h1 {
-        font-size: 3.2rem;
-    }
-
-    h2 {
-        font-size: 2.6rem;
-    }
-
-    h3 {
-        font-size: 2.3rem;
-    }
-
-    h4 {
-        font-size: 1.8rem;
-    }
-
-    h5 {
-        font-size: 1.4rem;
-    }
-
-    h6 {
-        font-size: 1rem;
-    }
+    
 
 }
 
@@ -1327,3 +1293,5 @@ nav[role="navigation"] {
   .highlight {
       color: #2B7A78;
   }
+
+
