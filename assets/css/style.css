@@ -936,7 +936,7 @@ nav[role="navigation"] {
 }
 .large-1, .large-2, .large-3, .large-4 {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 .large-1:nth-child(1n), .large-2:nth-child(1n), .large-3:nth-child(1n), .large-4:nth-child(1n) {
     float: left;
